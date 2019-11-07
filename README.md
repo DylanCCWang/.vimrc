@@ -1,5 +1,5 @@
 ## Screenshot
-![image](https://github.com/DylanCCWang/.vimrc/blob/master/Screenshot.png | width=300)
+![image](https://github.com/DylanCCWang/.vimrc/blob/master/Screenshot.png)
 
 ## Installation
 ### 1. Install Vim-Plug:
