@@ -1,12 +1,9 @@
-# .vimrc
-My .vimrc 
-
-======== Installation ========
-
+# ======== Installation ========
 1. Install Vim-Plug:
-   $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
         https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-   Using vim, then enter ":PlugInstall"
+    Using vim, then enter ":PlugInstall"
+
 2. Install YouCompleteMe:
    for Ubuntu 16.04 and Later:
      $ sudo apt install build-essential cmake python3-dev
