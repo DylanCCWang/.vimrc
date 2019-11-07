@@ -1,3 +1,6 @@
+## Screenshot
+![image](https://github.com/DylanCCWang/.vimrc/blob/master/Screenshot.png)
+
 ## Installation
 ### 1. Install Vim-Plug:
     $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
