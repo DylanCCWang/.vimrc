@@ -14,6 +14,6 @@ Using **vim**, and then enter **":PlugInstall"**
        $ cd .vim/plugged/YouCompleteMe/
        $ python3 install.py
    ##### for MacOS:
-       $ brew install cmake go npm macvim
+       $ brew install cmake macvim
        $ cd .vim/plugged/YouCompleteMe/
-       $ ./install.py (./install.py --all)
+       $ ./install.py --clang-completer
