@@ -17,3 +17,4 @@ Using **vim**, and then enter **":PlugInstall"**
        $ brew install cmake macvim
        $ cd .vim/plugged/YouCompleteMe/
        $ ./install.py --clang-completer
+       (If MacOS is 10.15.x, you maybe need to run "brew reinstall python" or "brew resintall python3".)
